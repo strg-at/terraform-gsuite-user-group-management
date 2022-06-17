@@ -1,3 +1,11 @@
+# Module has moved
+
+ See NEW MODULE for the official Hashicorp provider googleworkspace here:  [strg-at/terraform-googleworkspace-user-group-management](https://github.com/strg-at/terraform-googleworkspace-user-group-management)
+
+ Hashicorp has released [terraform-provider-googleworkspace](https://github.com/hashicorp/terraform-provider-googleworkspace) as official provider for GWorkspace user/group management. Therefore this module will not be maintained anymore.
+ 
+ ---
+
 # Dynamic User- and Group Management for Google Workspace with Terraform
 IAC Implementation for User- and Group Management in Google Workspace (formerly GSuite)
 
